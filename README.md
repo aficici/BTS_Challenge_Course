@@ -13,3 +13,18 @@ D5 Sections 3.17-3.20 (Alteryx) #60daysofudacity
 D6 Sections 3.21-3.24 (Building a Model) #60daysofudacity
 
 D7 Pandas #60daysofudacity
+
+D8 Sections 3.25-3.28 (Evaluation) #60daysofudacity
+
+D9 Pandas Dataframes #60daysofudacity
+
+D10 Pandas Dataframes #60daysofudacity
+
+D11 Pandas Dataframes #60daysofudacity
+
+D12 Pandas Dataframes #60daysofudacity
+
+D13: Alteryx. #60daysofudacity
+
+D14: Lesson 4: Practice Project. 4.2. New Alteryx Tools #60daysofudacity
+
