@@ -28,3 +28,5 @@ D13: Alteryx. #60daysofudacity
 
 D14: Lesson 4: Practice Project. 4.2. New Alteryx Tools #60daysofudacity
 
+D 15: Lesson 4.3 Practice Project Details #60daysofudacity
+
