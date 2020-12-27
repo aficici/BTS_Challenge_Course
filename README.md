@@ -30,3 +30,4 @@ D14 Lesson 4: Practice Project. 4.2. New Alteryx Tools #60daysofudacity
 
 D15 Lesson 4.3 Practice Project Details #60daysofudacity
 
+D16 Lesson 4.3 Practice Project Details #60daysofudacity
