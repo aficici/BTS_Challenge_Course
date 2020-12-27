@@ -24,7 +24,7 @@ D11 Pandas Dataframes #60daysofudacity
 
 D12 Pandas Dataframes #60daysofudacity
 
-D13 Alteryx. #60daysofudacity
+D13 Alteryx #60daysofudacity
 
 D14 Lesson 4: Practice Project. 4.2. New Alteryx Tools #60daysofudacity
 
