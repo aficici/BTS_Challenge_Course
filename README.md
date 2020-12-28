@@ -32,3 +32,5 @@ D15 Lesson 4.3 Practice Project Details #60daysofudacity
 
 D16 Lesson 4.3 Practice Project Details #60daysofudacity
 
+D17 Alteryx Academy Training #60daysofudacity
+
