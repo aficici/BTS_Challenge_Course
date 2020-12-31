@@ -37,3 +37,5 @@ D17 Alteryx Academy Training. #60daysofudacity
 D18 Alteryx Academy Training. Manually Entering Data #60daysofudacity
 
 D19 Alteryx Academy Training. Manually Entering Data #60daysofudacity
+
+D20 Alteryx Academy Training. #60daysofudacity
