@@ -42,3 +42,5 @@ D20 Alteryx Academy Training. #60daysofudacity
 
 D21 SQL #60daysofudacity 
 
+D22 SQL #60daysofudacity
+
