@@ -57,3 +57,5 @@ D27 SQL #60daysofudacity
 D28 Tableau #60daysofudacity
 
 D29 Tableau #60daysofudacity
+
+D30 Tableau #60daysofudacity
