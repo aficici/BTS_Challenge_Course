@@ -61,3 +61,5 @@ D29 Tableau #60daysofudacity
 D30 Tableau #60daysofudacity
 
 D31: Tableau Dashboards #60daysofudacity
+
+D32: Tableau Dashboards #60daysofudacity 
