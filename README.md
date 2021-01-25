@@ -75,3 +75,5 @@ D36 Tableau Dashboards #60daysofudacity
 D37 Tableau Dashboards #60daysofudacity
 
 D38 Tableau Dashboards #60daysofudacity
+
+D39 Study Jam Study Jam The Dangers of Dirty Data, Data Profiling in Python Notebook, Getting Started & Understanding Alteryx Designer, Data Visualization with Tableau, Introduction to Data Visualization with Excel #60daysofudacity
