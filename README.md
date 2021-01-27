@@ -81,3 +81,5 @@ D39 Study Jam Study Jam The Dangers of Dirty Data, Data Profiling in Python Note
 D40 Creating Interactive Tableau Dashboards #60daysofudacity 
 
 D41 Studied for NLP project. Data Cleaning and EDA. #60daysofudacity
+
+D42 Studied for NLP project. Feature Engineering. #60daysofudacity 
