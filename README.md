@@ -85,3 +85,5 @@ D41 Studied for NLP project. Data Cleaning and EDA. #60daysofudacity
 D42 Studied for NLP project. Feature Engineering. #60daysofudacity 
 
 D43 Studied for the Tableau Desktop Specialist Exam. #60daysofudacity 
+
+D44 Studied for the Tableau Desktop Specialist Exam. #60daysofudacity 
