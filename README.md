@@ -87,3 +87,5 @@ D42 Studied for NLP project. Feature Engineering. #60daysofudacity 
 D43 Studied for the Tableau Desktop Specialist Exam. #60daysofudacity 
 
 D44 Studied for the Tableau Desktop Specialist Exam. #60daysofudacity 
+
+D45 Studied for the Tableau Desktop Specialist Exam. #60daysofudacity 
