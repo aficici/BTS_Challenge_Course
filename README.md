@@ -91,3 +91,5 @@ D44 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 D45 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 
 D46 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
+
+D47 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
