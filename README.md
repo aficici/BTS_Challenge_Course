@@ -97,3 +97,5 @@ D47 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 D48 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 
 D49 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
+
+D50 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
