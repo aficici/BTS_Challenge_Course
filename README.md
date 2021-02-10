@@ -107,4 +107,3 @@ D52 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 D53 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 
 D54 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
-D53 Studied for the Tableau Desktop Specialist Exam 
