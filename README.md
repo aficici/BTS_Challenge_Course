@@ -116,3 +116,4 @@ D57: Studied Convolutional Neural Networks in Python: CNN Computer Vision #60day
 
 D5: Studied Convolutional Neural Networks in Python: CNN Computer Vision #60daysofudacity 
 
+D5: Studied Convolutional Neural Networks in Python: CNN Computer Vision #60daysofudacity 
