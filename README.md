@@ -120,3 +120,4 @@ D5?: Studied Convolutional Neural Networks in Python: CNN Computer Vision #60day
 
 D6?: Studied Convolutional Neural Networks in Python: CNN Computer Vision #60daysofudacity 
 
+D6?: Studied Convolutional Neural Networks in Python: CNN Computer Vision #60daysofudacity 
