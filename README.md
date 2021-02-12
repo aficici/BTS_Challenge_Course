@@ -111,3 +111,5 @@ D54 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 D55 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 
 D56 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
+
+D57: Studied Convolutional Neural Networks in Python: CNN Computer Vision. #60daysofudacity 
