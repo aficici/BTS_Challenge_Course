@@ -120,3 +120,7 @@ D59 Attended a great #sg_discover_alteryx session by @David Berumen where he exp
 #60daysofudacity 
 
 D60 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
+
+D61 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
+
+D62 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
