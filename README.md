@@ -124,3 +124,5 @@ D60 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 D61 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 
 D62 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
+
+D63: Studied for the Tableau Desktop Specialist Exam. Table Calculations, Advanced Dashboards, Storytelling  #60daysofudacity 
