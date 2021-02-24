@@ -135,4 +135,4 @@ D66
 
 D67 W3Schools SQL Tutorial and HackerRank SQL Practice #60daysofudacity
 
-D68 W3Schools SQL Tutorial and HackerRank SQL Practice 
+D68 W3Schools SQL Tutorial and HackerRank SQL Practice #60daysofudacity
