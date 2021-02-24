@@ -130,3 +130,6 @@ D63 Studied for the Tableau Desktop Specialist Exam. Table Calculations, Advance
 D64
 
 D65
+
+D66
+
