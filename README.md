@@ -133,3 +133,4 @@ D65
 
 D66
 
+D67 W3Schools SQL Tutorial and HackerRank SQL Practice 
