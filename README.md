@@ -127,11 +127,11 @@ D62 Studied for the Tableau Desktop Specialist Exam #60daysofudacity
 
 D63 Studied for the Tableau Desktop Specialist Exam. Table Calculations, Advanced Dashboards, Storytelling  #60daysofudacity 
 
-D64
+D64 Studied for the Tableau Desktop Specialist Exam. Table Calculations, Advanced Dashboards, Storytelling  #60daysofudacity 
 
-D65
+D65 Studied for the Tableau Desktop Specialist Exam. Table Calculations, Advanced Dashboards, Storytelling  #60daysofudacity 
 
-D66
+D66 Studied for the Tableau Desktop Specialist Exam. Table Calculations, Advanced Dashboards, Storytelling  #60daysofudacity 
 
 D67 HackerRank SQL Practice #60daysofudacity
 
