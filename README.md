@@ -136,3 +136,5 @@ D66 Studied for the Tableau Desktop Specialist Exam. Table Calculations, Advance
 D67 HackerRank SQL Practice #60daysofudacity
 
 D68 W3Schools SQL Tutorial and HackerRank SQL Practice #60daysofudacity
+
+D68: W3Schools SQL Tutorial and HackerRank SQL Practice  #60daysofudacity 
