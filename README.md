@@ -143,4 +143,4 @@ D70 W3Schools SQL Tutorial and HackerRank SQL Practice  #60daysofudacity
 
 D71 Tableau. Connecting to Spatial Files #60daysofudacity 
 
-D71 Tableau. Connecting to Spatial Files #60daysofudacity 
+# D72 Tableau. Joining to Spatial Files #60daysofudacity 
