@@ -145,4 +145,4 @@ D71 Tableau. Connecting to Spatial Files #60daysofudacity 
 
 D72 Tableau. Joining to Spatial Files #60daysofudacity 
 
-D73 Tableau Practice Test 1. #60daysofudacity
+D73 Tableau Practice Test 1 #60daysofudacity
