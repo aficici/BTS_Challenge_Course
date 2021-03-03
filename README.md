@@ -150,4 +150,3 @@ D73 Tableau Practice Test 1 #60daysofudacity
 
 D73 Tableau Practice Test 1 #60daysofudacity
 
-D73 
