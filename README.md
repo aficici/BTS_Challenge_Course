@@ -147,3 +147,5 @@ D72 I am happy to share that I successfully completed the course Tableau 2020 A-
 Time series, Aggregation, Filters, Maps, Scatterplots, Joining, Blending, Relationships, Dual Axis Charts, Table Calculations, Advanced Dashboards,Storytelling, Advanced Data Preparation, Clusters, Custom Territories, and Design Features. #60daysofudacity 
 
 D73 Tableau Practice Test 1 #60daysofudacity
+
+D73 Tableau Practice Test 1 #60daysofudacity
