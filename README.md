@@ -152,3 +152,5 @@ D74 Tableau Practice Test 1 #60daysofudacity
 
 D75 I am happy to share that I successfully completed the course Convolutional Neural Networks in Python: CNN Computer Vision. #60daysofudacity
 
+D76: Python, Pandas, Seaborn and Pairplot #60daysofudacity
+
