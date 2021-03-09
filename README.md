@@ -157,5 +157,3 @@ D76 Python, Pandas, Seaborn and Pairplot #60daysofudacity
 D77 Study Jam #60daysofudacity
 
 D78 Pandas and Numpy #60daysofudacity
-
-D78
