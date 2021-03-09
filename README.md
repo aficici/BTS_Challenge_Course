@@ -155,3 +155,5 @@ D75 I am happy to share that I successfully completed the course Convolutional N
 D76 Python, Pandas, Seaborn and Pairplot #60daysofudacity
 
 D77 Study Jam #60daysofudacity
+
+D78: Pandas and Numpy #60daysofudacity
