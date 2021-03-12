@@ -160,4 +160,4 @@ D78 Pandas and Numpy #60daysofudacity
 
 D79 NYC Open Data Week #60daysofudacity
 
-D80 Plotly and Pie Charts D79 NYC Open Data #60daysofudacity
+D80 Plotly and Pie Charts D79 NYC Open #60daysofudacity
